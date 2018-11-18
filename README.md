@@ -3,7 +3,7 @@
 
 Some great work has been done by the contributers to the WP GraphQL plugin. However, at the time of writing, there are virtually no repositories for plugins that help to expose other plugins to the GraphQL schema.
 
-<strong>This repo attempts to change that. Feel free to submit any extenders you may have created</strong>
+<strong>This repo attempts to change that. Feel free to submit any extenders you may have created :)</strong>
 
 <hr>
 
