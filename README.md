@@ -28,9 +28,9 @@ https://www.wpgraphql.com/docs/
 
 <em>As one might expect, the emphasis is on plugins that contribute large amounts of metadata to the WP database tables. Examples include social-network related plugins, CPT and ACF-based plugins, as well as eCommerce plugins.</em>
 
-- WP User Avatar (replaces default WP Gravatar system with locally hosted profile pictures).
-- UserPro Tags (registers a custom "tags" taxonomy which allows users to describe themselves via their profiles).
-- UserPro Badges (registers a "badges" type for users).
-- UserPro Bookmarks (allows users to bookmark or save their favourite posts).
-- Everest Comment Reactions (allows users to "react" to comments, Facebook-style).
-- Comment Sentiment (uses a Naive Bayes classifier to automatically classify comments as "positive", "neutral", or "negative".
+- <strong>WP User Avatar</strong>: <em>replaces default WP Gravatar system with locally hosted profile pictures.</em>
+- <strong>UserPro Tags</strong>: <em>registers a custom "tags" taxonomy which allows users to describe themselves via their profiles.</em>
+- <strong>UserPro Badges</strong>: <em>registers a "badges" type for users.</em>
+- <strong>UserPro Bookmarks<strong>: <em>allows users to bookmark or save their favourite posts.</em>
+- <strong>Everest Comment Reactions</strong>: <em>allows users to "react" to comments, Facebook-style.</em>
+- <strong>Comment Sentiment</strong>: <em>uses a Naive Bayes classifier to automatically classify comments as "positive", "neutral", or "negative".</em>
