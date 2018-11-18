@@ -31,6 +31,6 @@ https://www.wpgraphql.com/docs/
 - <strong>WP User Avatar</strong>: <em>replaces default WP Gravatar system with locally hosted profile pictures.</em>
 - <strong>UserPro Tags</strong>: <em>registers a custom "tags" taxonomy which allows users to describe themselves via their profiles.</em>
 - <strong>UserPro Badges</strong>: <em>registers a "badges" type for users.</em>
-- <strong>UserPro Bookmarks<strong>: <em>allows users to bookmark or save their favourite posts.</em>
+- <strong>UserPro Bookmarks</strong>: <em>allows users to bookmark or save their favourite posts.</em>
 - <strong>Everest Comment Reactions</strong>: <em>allows users to "react" to comments, Facebook-style.</em>
 - <strong>Comment Sentiment</strong>: <em>uses a Naive Bayes classifier to automatically classify comments as "positive", "neutral", or "negative".</em>
