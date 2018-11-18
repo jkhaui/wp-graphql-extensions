@@ -7,10 +7,21 @@ Some great work has been done by the contributers to the WP GraphQL plugin. Howe
 
 <hr>
 
-<strong>Instructions:</strong>
+<strong>Docs explaining how to register custom fields, CPTs, etc. to the GraphQL schema:</strong>
+https://www.wpgraphql.com/docs/
+
+<hr>
+
+<strong>Instructions for installing GraphQL add-on plugins:</strong>
 
 1. Download the repo
 2. Zip whichever folder/s you wish to use.
 3. Install the Zip file as you would with any other plugin.
 
 <em>Note that all plugins here require the WP GraphQL plugin (https://github.com/wp-graphql/wp-graphql) to be installed as a dependency.</em>
+
+<hr>
+<strong>Constantly updated list of plugin extensions:</strong>
+<em>As one might expect, the emphasis is on plugins that contribute large amounts of metadata to the WP database tables. Examples include social-network related plugins, CPT and ACF-based plugins, as well as eCommerce plugins.</em>
+
+- 
