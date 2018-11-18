@@ -25,6 +25,7 @@ https://www.wpgraphql.com/docs/
 
 <hr>
 <strong>Constantly updated list of plugin extensions:</strong>
+
 <em>As one might expect, the emphasis is on plugins that contribute large amounts of metadata to the WP database tables. Examples include social-network related plugins, CPT and ACF-based plugins, as well as eCommerce plugins.</em>
 
 - WP User Avatar (replaces default WP Gravatar system with locally hosted profile pictures).
