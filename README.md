@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://s3.amazonaws.com/codelize/GraphPress.png" /></div></center>
 
-<strong>The logical starting point for any project: <em>What</em> and <em>why</em>?</strong>
+<strong>First of all: the logical question to kick-off any project: <em>What</em> and <em>why</em>?</strong>
   
 GraphQL provides arguably the best API architecture for highly relational datasets. The preeminent example is Facebook, who are in fact the creators of GraphQL before open-sourcing it. 
 WordPress, meanwhile, is powered by over 50,000 plugins - many of which make extensive use of the WP database.
