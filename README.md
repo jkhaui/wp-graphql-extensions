@@ -2,13 +2,13 @@
 
 <div align="center"><img src="https://s3.amazonaws.com/codelize/GraphPress.png" /></div></center>
 
-<strong>First of all: the logical question to kick-off any project: <em>What</em> and <em>why</em>?</strong>
+<strong><em>What</em> is this and <em>why</em> does it warrant a repo?</strong>
   
-GraphQL provides arguably the best API architecture for highly relational datasets. The preeminent example is Facebook, who are in fact the creators of GraphQL before open-sourcing it. 
+GraphQL provides arguably the best API architecture for highly relational datasets. The preeminent example is Facebook, who in fact created GraphQL and later open-sourced it.
 WordPress, meanwhile, is powered by over 50,000 plugins - many of which make extensive use of the WP database.
-With large datasets becoming the norm for even relatively simple web apps, REST APIs become cumbersome as they were not designed to work primarily with large, nested datasets. 
+With large datasets becoming the norm for even relatively simple web apps, querying innumerable REST API endpoints becomes inefficient and cumbersome. 
 
-Great work has been done by the contributers behind the WP GraphQL plugin. At the time of writing, however, there are virtually no repositories for plugins that help to expose other plugins to the GraphQL schema.
+Great work has been done by the contributers behind the WP GraphQL plugin. At the time of writing, there are virtually no repositories for plugins that help to expose other plugins to the GraphQL schema.
 
 This repo attempts to change that.<strong>Feel free to contribute and submit any plugin extensions you may have created :)</strong>
 
