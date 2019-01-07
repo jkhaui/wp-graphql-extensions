@@ -1,16 +1,5 @@
-# graphql-wp-extensions. The best friend of headless WordPress CMS' and decoupled apps. 
-
-<div align="center"><img src="https://s3.amazonaws.com/codelize/GraphPress.png" /></div></center>
-
-<strong><em>What</em> is this and <em>why</em> does it warrant a repo?</strong>
-  
-GraphQL provides arguably the best API architecture for highly relational datasets. The preeminent example is Facebook, who in fact created GraphQL and later open-sourced it.
-WordPress, meanwhile, is powered by over 50,000 plugins - many of which make extensive use of the WP database.
-With large datasets becoming the norm for even relatively simple web apps, querying innumerable REST API endpoints becomes inefficient and cumbersome. 
-
-Great work has been done by the contributers behind the WP GraphQL plugin. At the time of writing, there are virtually no repositories for plugins that help to expose other plugins to the GraphQL schema.
-
-This repo attempts to change that.<strong>Feel free to contribute and submit any plugin extensions you may have created :)</strong>
+# Modernise your plugins and make them compatible with a decoupled CMS/SPA.
+Bootstrap the datasource of your decoupled SPA. These extensions make popular WordPress plugins compatible with GraphQL, allowing you to leverage their backend functionality only. Particularly suitable for ecommerce and social network-based apps, or any plugin that potentially exposes a lot of data.
 
 <hr>
 
@@ -25,12 +14,12 @@ https://www.wpgraphql.com/docs/
 2. Zip whichever folder/s you wish to use.
 3. Install the Zip file as you would with any other plugin.
 
-<em>Note that all plugins here require the WP GraphQL plugin (https://github.com/wp-graphql/wp-graphql) to be installed as a dependency (alongside the base plugin that the GraphQL helper is extending).</em>
+Alternative if you are lazy: copy and paste the code for a given plugin into your theme's functions.php file.
+
+<em>Note that all plugins here require the WP GraphQL plugin (https://github.com/wp-graphql/wp-graphql) to be installed.</em>
 
 <hr>
 <strong>Constantly updated list of plugin extensions:</strong>
-
-<em>The emphasis is on plugins that contribute large amounts of metadata to the WP database tables, primarily user_meta, post_meta and comment_meta. Primary use-cases are social-network related plugins, CPT and ACF-based plugins, as well as eCommerce plugins. Even SEO-management plugins - such as Yoast - can be effectively incorporated within the WordPress GraphQL schema.</em>
 
 - <strong>WP User Avatar</strong>: <em>replaces default WP Gravatar system with locally hosted profile pictures.</em>
 - <strong>UserPro Tags</strong>: <em>registers a custom "tags" taxonomy which allows users to describe themselves via their profiles.</em>
