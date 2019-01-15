@@ -3,6 +3,10 @@ Bootstrap the datasource of your decoupled SPA. These extensions make popular Wo
 
 <hr>
 
+*Temporarily halting work on this repo until I have more time, or more interest is shown.*
+
+<hr>
+
 <em>Docs explaining how to register custom fields, CPTs, etc. to the GraphQL schema:</em>
 https://www.wpgraphql.com/docs/
 
